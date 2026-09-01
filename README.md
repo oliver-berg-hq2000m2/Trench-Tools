@@ -43,6 +43,12 @@ Trench Tools is a comprehensive desktop application designed for cryptocurrency 
 
 ---
 
+## 📊 Keywords
+
+`pumpfun trading bot` · `axiom trading bot` · `solana memecoin sniper` · `memecoin profit calculator` · `auto buy memecoins` · `solana token sniping tool` · `pumpfun sniper v2.1.1` · `axiom integration` · `easy crypto earnings` · `solana memecoin helper` · `meme coin trading software` · `pumpfun calculator` · `solana trading automation` · `copy trade solana` · `low cap token sniper` · `crypto profit simplifier` · `pumpfun strategy` · `solana dex tool` · `meme coin portfolio tracker` · `auto sell solana tokens` · `windows crypto tool` · `download v2.1.1` · `2026`
+
+---
+
 ## 📄 License
 
 MIT License — see [LICENSE](LICENSE) for details.
